@@ -1,0 +1,14 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\Bin\OpenIdAuth.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.dll
+C:\Academy\Builds\Y3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\Bin\OpenIdAuth.dll
+C:\Academy\Builds\Y3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.csproj.AssemblyReference.cache
+C:\Academy\Builds\Y3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academy\Builds\Y3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.AssemblyInfoInputs.cache
+C:\Academy\Builds\Y3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.AssemblyInfo.cs
+C:\Academy\Builds\Y3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.csproj.CoreCompileInputs.cache
+C:\Academy\Builds\Y3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.dll

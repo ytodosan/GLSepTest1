@@ -1,0 +1,57 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": []
+  },
+  "packageFolders": {
+    "C:\\Windows\\TEMP\\1\\TSCRM_m.velichko\\Default\\dotnet\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "0.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projects\\DevCore\\TSBpm\\Src\\Lib\\Terrasoft.WebApp.Loader\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCustomer360AI\\Files\\CrtCustomer360AI.csproj",
+      "projectName": "CrtCustomer360AI",
+      "projectPath": "C:\\Projects\\DevCore\\TSBpm\\Src\\Lib\\Terrasoft.WebApp.Loader\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCustomer360AI\\Files\\CrtCustomer360AI.csproj",
+      "packagesPath": "C:\\Windows\\TEMP\\1\\TSCRM_m.velichko\\Default\\dotnet\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\DevCore\\TSBpm\\Src\\Lib\\Terrasoft.WebApp.Loader\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCustomer360AI\\Files\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Projects\\DevCore\\TSBpm\\Src\\Lib\\NuGet.Config",
+        "C:\\Windows\\TEMP\\1\\TSCRM_m.velichko\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://ts1-infr-nexus.bpmonline.com/repository/nuget-v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
