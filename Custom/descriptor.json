@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
     "Name": "Custom",
-    "ModifiedOnUtc": "\/Date(1761246875000)\/",
+    "ModifiedOnUtc": "\/Date(1761568066000)\/",
     "Maintainer": "Customer",
     "Description": "Custom Package",
     "DependsOn": [
@@ -53,6 +53,11 @@
         "UId": "062de047-62f1-4580-85e2-0417d450a3a8",
         "PackageVersion": "7.8.0",
         "Name": "BaseScoring"
+      },
+      {
+        "UId": "06b2f9c5-2217-4cca-9749-77d954e77765",
+        "PackageVersion": "1.0.0",
+        "Name": "GlbDataBinding"
       },
       {
         "UId": "06d9ef10-51d8-122c-8933-9212e84236c9",
@@ -155,6 +160,12 @@
         "Name": "SspWorkplace"
       },
       {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
+      {
         "UId": "2f47ab98-ef47-a742-be37-90c8020ce797",
         "PackageVersion": "7.8.0",
         "Name": "CrtCloudIntegration"
@@ -195,6 +206,12 @@
         "UId": "36d65faf-3f18-1cae-d2cb-b71c4414d164",
         "PackageVersion": "7.8.0",
         "Name": "Playbook"
+      },
+      {
+        "UId": "379003f3-74dc-4305-c4de-04f43be2bfb0",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360Mobile",
+        "Type": 1
       },
       {
         "UId": "3857e21f-67c4-2b68-5b08-56a6557c017e",
@@ -537,6 +554,13 @@
         "Type": 1
       },
       {
+        "UId": "99158cb9-b1b4-3a1d-beb0-7157e0414e73",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtC360InUiV2",
+        "Type": 1,
+        "InstallBehavior": 1
+      },
+      {
         "UId": "99e69b3f-057b-4163-9247-fdd98287561f",
         "PackageVersion": "7.8.0",
         "Name": "Managers"
@@ -678,6 +702,12 @@
         "UId": "bb1e143e-f3ee-4316-9450-851ddd02d999",
         "PackageVersion": "7.8.0",
         "Name": "LDAP"
+      },
+      {
+        "UId": "c1a044a2-cb8c-9387-837b-d9ae9183cd47",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360AI",
+        "Type": 1
       },
       {
         "UId": "c2518826-60a9-40d4-bd14-6add9d35d320",
