@@ -1,0 +1,76 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0fc97bbe-dc71-4371-b5e8-b0d76058d09b"
+        },
+        {
+          "SchemaColumnUId": "4980d8bc-9cb0-cc99-8a6b-987696979417",
+          "Value": "B"
+        },
+        {
+          "SchemaColumnUId": "932989d7-81d3-cd6c-ae82-97f7fc5f94b0",
+          "Value": 2
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1761570389745+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1761570337684+0200)\/"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "413d16e1-63f3-4298-bcee-f043c19a3184"
+        },
+        {
+          "SchemaColumnUId": "4980d8bc-9cb0-cc99-8a6b-987696979417",
+          "Value": "A"
+        },
+        {
+          "SchemaColumnUId": "932989d7-81d3-cd6c-ae82-97f7fc5f94b0",
+          "Value": 3
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1761570387016+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1761570346846+0200)\/"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5b6e2872-4898-4d0f-9f10-4aef28d23425"
+        },
+        {
+          "SchemaColumnUId": "4980d8bc-9cb0-cc99-8a6b-987696979417",
+          "Value": "C"
+        },
+        {
+          "SchemaColumnUId": "932989d7-81d3-cd6c-ae82-97f7fc5f94b0",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1761570392597+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1761570330356+0200)\/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yacht drive type" />
+			<Item Name="Columns.UsrSort123.Caption" Value="Sort123" />
+			<Item Name="Columns.UsrSortABC.Caption" Value="SortABC" />
+		</Items>
+	</Group>
+</Resources>

@@ -591,7 +591,9 @@
 	<ItemGroup Label="Entity Files">
 		<Compile Remove="$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrTrafficLight/UsrTrafficLight.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrTrafficLight/UsrTrafficLight.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrYachtDriveType/UsrYachtDriveType.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrYachtDriveType/UsrYachtDriveType.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrYachts/UsrYachts.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrYachts/UsrYachts.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrYachtStatus/UsrYachtStatus.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrYachtStatus/UsrYachtStatus.cs')" />
 	</ItemGroup>
 	<ItemGroup Label="3rd Party References"></ItemGroup>
 	<Target Name="Paths" BeforeTargets="BeforeCompile">
